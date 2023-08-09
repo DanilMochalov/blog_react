@@ -13,13 +13,13 @@ blog_react - это интерактивное веб-приложение, ко
 
 Удаление постов: Пользователи могут удалять свои посты, которые больше не актуальны или не нужны.
 
-Технологии:
+Технологии:<br><br>
 
-React
-React Router
-State Management
-CSS
-REST API
+React<br>
+React Router<br>
+State Management<br>
+CSS<br>
+REST API<br>
 
 Примерный план разработки:
 
